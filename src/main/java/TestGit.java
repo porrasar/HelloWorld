@@ -52,5 +52,6 @@ public class TestGit
         System.out.println("hello github3");
         System.out.println("hello github4");
         System.out.println("hello github changes for new branch");
+       System.out.println("hello github changes for new branch2");
     }
 }

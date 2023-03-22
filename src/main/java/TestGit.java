@@ -50,6 +50,6 @@ public class TestGit
         System.out.println("hello github");
         System.out.println("hello github2");
         System.out.println("hello github3");
-        //System.out.println("hello github4");
+        System.out.println("hello github4");
     }
 }
